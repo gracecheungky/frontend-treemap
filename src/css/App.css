@@ -1,0 +1,9 @@
+.textarea {
+  resize: "both"
+}
+
+.rectangles {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid grey;
+}
